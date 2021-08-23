@@ -13,6 +13,15 @@
 * Fun data viz on password strength [**article**](https://joyce-john.github.io/tidytuesday_passwords/index.html), [**repo**](https://github.com/joyce-john/tidytuesday_passwords)  
 * Machine learning for AirBnB price prediction [**article**](https://joyce-john.github.io/vienna_airbnb_price_prediction/), [**repo**](https://github.com/joyce-john/vienna_airbnb_price_prediction)   
 
+#### Check out my Tableau Public profile:  
+
+Click here to check it out 👇  
+
+[![Tableau Badge](https://img.shields.io/badge/-johnjoyce-blue?style=flat-square&logo=Tableau&logoColor=white&link=https://public.tableau.com/app/profile/j.joyce)](https://public.tableau.com/app/profile/j.joyce)
+
+#### Find me on LinkedIn:  
+
+Just click the button 👇  
 
 [![Linkedin Badge](https://img.shields.io/badge/-johnjoyce-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-joyce/)](https://www.linkedin.com/in/j-joyce/)
 
