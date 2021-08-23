@@ -9,9 +9,9 @@
 
 #### Some sample projects:  
 
-* Statistical analysis of supreme court arguments [article](https://joyce-john.github.io/supreme_court_oral_arguments/), [repo](https://github.com/joyce-john/supreme_court_oral_arguments)  
-* Fun data viz on password strength [article](https://joyce-john.github.io/tidytuesday_passwords/index.html), [repo](https://github.com/joyce-john/tidytuesday_passwords)  
-* Machine learning for AirBnB price prediction [article](https://joyce-john.github.io/vienna_airbnb_price_prediction/), [repo](https://github.com/joyce-john/vienna_airbnb_price_prediction)   
+* Statistical analysis of supreme court arguments [**article**](https://joyce-john.github.io/supreme_court_oral_arguments/), [**repo**](https://github.com/joyce-john/supreme_court_oral_arguments)  
+* Fun data viz on password strength [**article**](https://joyce-john.github.io/tidytuesday_passwords/index.html), [**repo**](https://github.com/joyce-john/tidytuesday_passwords)  
+* Machine learning for AirBnB price prediction [**article**](https://joyce-john.github.io/vienna_airbnb_price_prediction/), [**repo**](https://github.com/joyce-john/vienna_airbnb_price_prediction)   
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-johnjoyce-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/j-joyce/)](https://www.linkedin.com/in/j-joyce/)
